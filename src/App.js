@@ -10,17 +10,17 @@ import About from './pages/About';
 function App() {
   return (
     <>
-     {/* Main wrapper */}
-     <div class="container-fluid mx-0 px-0">
+      {/* Main wrapper */}
+      <div class="container-fluid mx-0 px-0">
 
-      <BrowserRouter>
-        <Route exact path="/" component={Home} />
-        <Route exact path="/portfolio-main" component={PortfolioMain} />
-        <Route exact path="/web-development" component={WebDevelopment} />
-        <Route exact path="/graphic-digital" component={GraphicDigital} />
-        <Route exact path="/painting" component={Painting} />
-        <Route exact path="/about" component={About} />
-      </BrowserRouter>
+        <BrowserRouter>
+          <Route exact path="/" component={Home} />
+          <Route exact path="/portfolio-main" component={PortfolioMain} />
+          <Route exact path="/web-development" component={WebDevelopment} />
+          <Route exact path="/graphic-digital" component={GraphicDigital} />
+          <Route exact path="/painting" component={Painting} />
+          <Route exact path="/about" component={About} />
+        </BrowserRouter>
 
       </div>
     </>

@@ -56,17 +56,22 @@ p {
 .LinkedInIcon {
 	font-size: 1.5rem;
 }
+
 .gitHubIcon {
 	font-size: 1.5rem;
 }
+
 .faceBookIcon {
 	font-size: 1.5rem;
 }
+
 .youtubeIcon {
 	font-size: 1.5rem;
+	margin-left: .5rem;
 }
-.LinkedInIcon:hover, .gitHubIcon:hover, .faceBookIcon:hover, .youtubeIcon:hover  {
-opacity: .8
+
+.LinkedInIcon:hover, .gitHubIcon:hover, .faceBookIcon:hover, .youtubeIcon:hover {
+	opacity: .8
 }
 
 /* ############################## */
@@ -198,68 +203,88 @@ opacity: .8
 /* ############################## */
 
 /* About Page */
+
 .shivaImage {
-  width: 135px;
-  height: 180px;
+	width: 135px;
+	height: 180px;
 	border-radius: 8px;
 	margin-bottom: 1rem;
 	box-shadow: 10px 5px 8px rgb(0, 0, 0, .4);
 }
+
 .aboutPara .LinkedInIcon {
-  color: #0e76a8
+	color: #0e76a8
 }
+
 .aboutPara .gitHubIcon {
-  color: #4078c0
+	color: #4078c0
 }
+
 .aboutPara .faceBookIcon {
-  color: #3b5998
+	color: #3b5998
 }
+
 .aboutPara .youtubeIcon {
-  color: #bb0000
+	color: #bb0000
 }
+
 .fa-css3-alt {
 	color: #2965f1;
 }
+
 .fa-bootstrap {
 	color: #602c50;
 }
+
 .fa-js-square {
 	color: #d8bf1b;
 }
+
 .fa-node-js {
 	color: #68A063;
 }
+
 .fa-code {
-color: #888;
+	color: #888;
 }
+
 .fa-html5 {
-color: #F16529;
+	color: #F16529;
 }
+
 .fa-database {
 	color: #888;
 }
+
 .fa-github-square {
 	color: #4078c0
 }
+
 .fa-git-square {
 	color: #F1502F;
 }
+
 .fa-react {
 	color: #61DBFB;
 }
+
 .fa-adobe {
 	color: #3B140A;
 }
+
 .fa-bezier-curve {
 	color: #888;
 }
+
 .fa-drafting-compass {
 	color: #888;
 }
+
 .fa-pen-nib {
 	color: #602c50;
 }
-.fa-sitemap{
+
+.fa-sitemap {
 	color: #888;
 }
 
@@ -502,7 +527,6 @@ color: #F16529;
 	header img {
 		margin: 1rem 0;
 	}
-
 	.aboutPageIcons {
 		font-size: 1.5rem;
 	}
@@ -572,5 +596,4 @@ color: #F16529;
 	.youtubeIcon {
 		font-size: 2.9rem;
 	}
-
 }
