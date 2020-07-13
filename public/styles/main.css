@@ -78,7 +78,7 @@ p {
 
 /* Web-Development Page */
 
-#projectUiDisplay {
+/* #projectUiDisplay {
 	width: 100%;
 	margin-top: 0;
 	padding-top: 0;
@@ -100,9 +100,10 @@ p {
 }
 
 .webProjectThumbBox {
-	/* border: 2px solid #a3a3a3; */
-	padding: 0;
-}
+	/* border: 2px solid #a3a3a3;
+
+padding: 0;
+} */
 
 .webProjectDisplayBox img {
 	width: 100%;
@@ -131,6 +132,7 @@ p {
 	box-shadow: 5px 5px 10px 5px #6e6e6e;
 }
 
+*/
 /* ############################## */
 
 /* Graphic-Digital Page */
