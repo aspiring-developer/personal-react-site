@@ -1,0 +1,13 @@
+header {
+  background-image: url("/../../../images/header-bg-1500x200.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}
+
+header img {
+  width: 200px;
+  max-width: 100%;
+  height: auto;
+}
