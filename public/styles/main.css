@@ -1,24 +1,3 @@
-/* navigation lists */
-
-.navbar-nav {
-	font-size: 0.8rem;
-}
-
-/* navigation hamburger-3-lines-bar */
-
-.navbar-toggler-icon {
-	font-size: 1.2rem;
-}
-
-#navbarNav a {
-	color: #e5e0be;
-}
-
-.fa-caret-down {
-	color: #e5d3be;
-	font-size: 1.2rem;
-}
-
 /* Font custom attributes not available in Bootstrap-4 */
 
 h1 {
