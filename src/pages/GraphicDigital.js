@@ -3,7 +3,7 @@ import React from 'react';
 const GraphicDigital = () => {
   return (
     <>
-      <h1>GraphicDigital</h1>
+      <h1>This page is under construction!</h1>
     </>
   )
 }

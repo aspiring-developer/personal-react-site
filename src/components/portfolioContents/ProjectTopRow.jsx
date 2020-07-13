@@ -1,5 +1,6 @@
 import React from 'react';
 import ProjectProps from './ProjectProps';
+import './Projects.css';
 
 const burger1Github = "https://github.com/ssh1sharma/Burger-1";
 const jobSearchGithub = "https://github.com/ssh1sharma/Job-and-News-Search";
@@ -27,7 +28,7 @@ const ProjectTopRow = () => {
         <ProjectProps
           image="../../images/burger-sequelize-ui-204x175.jpg"
           projectName={<a href={burger2Link}>Burger App-2</a>}
-          projectDescription="A Sequelize app that functions like the Burger-1 on the left, but it was built using ORM technology."
+          projectDescription="A Sequelize app that functions like the Burger-1, but it was built using ORM technology."
           githubLink={<a href={burger2Github}>Details in GitHub</a>}
         />
       </div>

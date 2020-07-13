@@ -1,0 +1,97 @@
+.LinkedInIcon {
+  font-size: 1.5rem;
+}
+
+.gitHubIcon {
+  font-size: 1.5rem;
+}
+
+.faceBookIcon {
+  font-size: 1.5rem;
+}
+
+.youtubeIcon {
+  font-size: 1.5rem;
+  margin-left: .5rem;
+}
+
+.LinkedInIcon:hover, .gitHubIcon:hover, .faceBookIcon:hover, .youtubeIcon:hover {
+  opacity: .8
+}
+
+/* Media query */
+
+@media (min-width: 544px) {
+  .LinkedInIcon {
+    font-size: 1.8rem;
+  }
+  .gitHubIcon {
+    font-size: 1.8rem;
+  }
+  .faceBookIcon {
+    font-size: 1.8rem;
+  }
+  .youtubeIcon {
+    font-size: 1.8rem;
+  }
+}
+
+@media (min-width: 768px) {
+  .LinkedInIcon {
+    font-size: 2.2rem;
+  }
+  .gitHubIcon {
+    font-size: 2.2rem;
+  }
+  .faceBookIcon {
+    font-size: 2.2rem;
+  }
+  .youtubeIcon {
+    font-size: 2.2rem;
+  }
+}
+
+@media (min-width: 1200px) {
+  .LinkedInIcon {
+    font-size: 2.4rem;
+  }
+  .gitHubIcon {
+    font-size: 2.4rem;
+  }
+  .faceBookIcon {
+    font-size: 2.4rem;
+  }
+  .youtubeIcon {
+    font-size: 2.4rem;
+  }
+}
+
+@media (min-width: 1440px) {
+  .LinkedInIcon {
+    font-size: 2.6rem;
+  }
+  .gitHubIcon {
+    font-size: 2.6rem;
+  }
+  .faceBookIcon {
+    font-size: 2.6rem;
+  }
+  .youtubeIcon {
+    font-size: 2.6rem;
+  }
+}
+
+@media (min-width: 1920px) {
+  .LinkedInIcon {
+    font-size: 2.9rem;
+  }
+  .gitHubIcon {
+    font-size: 2.9rem;
+  }
+  .faceBookIcon {
+    font-size: 2.9rem;
+  }
+  .youtubeIcon {
+    font-size: 2.9rem;
+  }
+}

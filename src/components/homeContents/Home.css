@@ -1,0 +1,7 @@
+.midImage {
+  background-image: url("/images/index-body-bg-1500x200.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 100%;
+}

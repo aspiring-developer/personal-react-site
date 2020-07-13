@@ -1,5 +1,6 @@
 import React from 'react';
 import ProjectProps from './ProjectProps';
+import './Projects.css';
 
 const dayPlannerGithub = "https://github.com/ssh1sharma/Work-Day-Scheduler";
 const weatherDashboardGithub = "https://github.com/ssh1sharma/Weather-Dashboard";

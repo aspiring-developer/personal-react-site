@@ -1,5 +1,6 @@
 import React from 'react';
 import ProjectProps from './ProjectProps';
+import './Projects.css';
 
 const npsVisitorGithub = "https://github.com/ssh1sharma/Park-Search-and-Blog";
 const employeeDirectoryGithub = "https://github.com/ssh1sharma/React-Employee-Directory";
