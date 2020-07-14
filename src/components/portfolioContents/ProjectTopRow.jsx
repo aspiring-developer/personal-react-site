@@ -15,21 +15,21 @@ const ProjectTopRow = () => {
       <div className="row d-flex justify-content-center align-items-center text-center mx-auto">
         <ProjectProps
           image="../../images/burger-mysql-ui-204x175.jpg"
-          projectName={<a href={burger1Link}>Burger App-1</a>}
+          projectName={<a href={burger1Link} target="_blank" rel="noopener noreferrer">Burger App-1</a>}
           projectDescription="A MySQL app that lets users virtually create, view, edit, save and delete their favorite burgers."
-          githubLink={<a href={burger1Github}>Details in GitHub</a>}
+          githubLink={<a href={burger1Github} target="_blank" rel="noopener noreferrer">Details in GitHub</a>}
         />
         <ProjectProps
           image="../../images/job-news-search-api-ui-204x175.jpg"
-          projectName={<a href={jobSearchLink}>Job & Article Search</a>}
+          projectName={<a href={jobSearchLink} target="_blank" rel="noopener noreferrer">Job & Article Search</a>}
           projectDescription="An app that helps web-dev related job and article search. It was built using two third-party APIs."
-          githubLink={<a href={jobSearchGithub}>Details in GitHub</a>}
+          githubLink={<a href={jobSearchGithub} target="_blank" rel="noopener noreferrer">Details in GitHub</a>}
         />
         <ProjectProps
           image="../../images/burger-sequelize-ui-204x175.jpg"
-          projectName={<a href={burger2Link}>Burger App-2</a>}
+          projectName={<a href={burger2Link} target="_blank" rel="noopener noreferrer">Burger App-2</a>}
           projectDescription="A Sequelize app that functions like the Burger-1, but it was built using ORM technology."
-          githubLink={<a href={burger2Github}>Details in GitHub</a>}
+          githubLink={<a href={burger2Github} target="_blank" rel="noopener noreferrer">Details in GitHub</a>}
         />
       </div>
     </>

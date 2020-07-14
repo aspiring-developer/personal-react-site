@@ -10,7 +10,6 @@ const About = () => {
     <>
       <Header />
       <AboutTitleSection />
-
       <div class="row aboutContentRow mx-auto text-center d-flex p-4">
         <AboutMainLeft />
         <AboutMainRight />

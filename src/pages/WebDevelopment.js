@@ -10,8 +10,8 @@ const WebDevelopment = (props) => {
   return (
     <>
       <Header />
-      <h1 className="text-center text-info text-capitalize mt-2 mb-4 pageTitle"> Web Development Portfolio
- </h1>
+      <h3 className="text-danger text-center my-4"> Web Development Portfolio
+ </h3>
       <hr />
       <ProjectTopRow />
       <hr />

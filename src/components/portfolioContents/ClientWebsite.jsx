@@ -13,13 +13,13 @@ export const ClientWebsite = () => {
         <ClientWebsiteProps
           websiteImage="../../images/audiology-web-screen-capture-150x150.jpg"
           imageAlt="Henry and Stewart Audiology web page screenshot"
-          websiteName={<a href={audiologyWebsiteLink}>Henry & Stewart audiology </a>}
+          websiteName={<a href={audiologyWebsiteLink} target="_blank" rel="noopener noreferrer">Henry & Stewart audiology </a>}
           websiteDescription="This website was built for one of my graphic design class friend's client. I used HTML5 and CSS3 to build it to have her design layout implemented as she expected."
         />
         <ClientWebsiteProps
           websiteImage="../../images/sushi-web-screen-capture-150x150.jpg"
           imageAlt="Sushi bar web page screenshot"
-          websiteName={<a href={sushiWebsiteLink}>Little Tokyo Sushi</a>}
+          websiteName={<a href={sushiWebsiteLink} target="_blank" rel="noopener noreferrer">Little Tokyo Sushi</a>}
           websiteDescription="This is a simple HTML and CSS based website built for a client. I used Adobe Photoshop and Illustartor to make logo, banner and optimize images."
         />
 
