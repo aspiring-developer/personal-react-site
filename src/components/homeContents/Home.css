@@ -1,3 +1,7 @@
+h1 {
+  text-shadow: #b3b1b1 0.5rem 0.5rem 0.5rem;
+}
+
 .midImage {
   background-image: url("/images/index-body-bg-1500x200.jpg");
   background-repeat: no-repeat;

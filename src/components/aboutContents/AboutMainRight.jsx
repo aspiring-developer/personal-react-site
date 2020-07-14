@@ -1,5 +1,6 @@
 import React from 'react';
 import SocialIcons from '../socialIcons/SocialIcons';
+import './About.css';
 
 const AboutMainRight = () => {
   return (
