@@ -12,15 +12,11 @@ const HomeMidSection = () => {
         <p className="text-warning pb-3 py-2"> Click a button below to go to the related portfolio page. </p>
         <Link to="/web-development"> <button type="button" className="btn btn-danger my-1" id="frontLgBtn"> Web Development </button> </Link>
 
-        <li className="dropdown-item">
-          <Link className="nav-link text-info" to="web-development"><i className="fas fa-laptop-code"></i> Web Development</Link>
-        </li>
-
-        <a href="/graphic-digital"> <button type="button" className="btn btn-success my-1" id="frontLgBtn"> Graphic Design </button> </a>
-        <a href="/graphic-digital"> <button type="button" className="btn btn-primary my-1" id="frontLgBtn"> Digital Drawing </button> </a>
-        <a href="/painting"> <button type="button" className="btn btn-light my-1" id="frontLgBtn"> Oil Painting </button> </a>
-        <a href="/painting"> <button type="button" className="btn btn-secondary my-1" id="frontLgBtn"> Chalkboard Art </button> </a>
-        <a href="/about"> <button type="button" className="btn btn-dark my-1" id="frontLgBtn"> About Our Work </button> </a>
+        <Link to="/graphic-digital"> <button type="button" className="btn btn-success my-1" id="frontLgBtn"> Graphic Design </button> </Link>
+        <Link to="/graphic-digital"> <button type="button" className="btn btn-primary my-1" id="frontLgBtn"> Digital Drawing </button> </Link>
+        <Link to="/painting"> <button type="button" className="btn btn-light my-1" id="frontLgBtn"> Oil Painting </button> </Link>
+        <Link to="/painting"> <button type="button" className="btn btn-secondary my-1" id="frontLgBtn"> Chalkboard Art </button> </Link>
+        <Link to="/about"> <button type="button" className="btn btn-dark my-1" id="frontLgBtn"> About Our Work </button> </Link>
       </div>
     </>
   )
