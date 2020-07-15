@@ -22,7 +22,7 @@ const Navbar = () => {
               </li>
               <ul className="dropdown-menu" aria-labelledby="dropdownMenu2">
                 <li className="dropdown-item">
-                  <Link className="nav-link text-info" to="web-development"><i className="fas fa-laptop-code"></i> Web Development</Link>
+                  <Link className="nav-link text-info" to="/web-development"><i className="fas fa-laptop-code"></i> Web Development</Link>
                 </li>
                 <li className="dropdown-item" type="button">
                   <Link className="nav-link text-info" to="/graphic-digital"><i className="fas fa-mouse"></i> Graphic Design <br /> & Digital Drawing</Link></li>
