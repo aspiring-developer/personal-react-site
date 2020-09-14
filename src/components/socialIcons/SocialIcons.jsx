@@ -20,13 +20,6 @@ const SocialIcons = () => {
           >
             <i className="fab fa-github-square"></i>
           </a>
-          <a
-            className="youtubeIcon fa-2x"
-            href="https://www.youtube.com/watch?v=AHMx705iG1E&t=8s"
-            target="_blank  noopener noreferrer"
-          >
-            <i className="fab fa-youtube" style={{ color: "#bb0000" }}></i>
-          </a>
         </p>
       </div>
     </>
