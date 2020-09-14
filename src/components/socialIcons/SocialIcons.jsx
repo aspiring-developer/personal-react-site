@@ -19,7 +19,10 @@ const SocialIcons = () => {
             href="https://github.com/ssh1sharma"
             target="_blank  noopener noreferrer"
           >
-            <i className="fab fa-github-square"></i>
+            <i
+              className="fab fa-github-square"
+              style={{ marginLeft: "1rem" }}
+            ></i>
           </a>
         </p>
       </div>
