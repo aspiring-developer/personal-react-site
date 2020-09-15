@@ -13,7 +13,6 @@ const SocialIcons = () => {
           >
             <i className="fab fa-linkedin" style={{ color: "#0e76a8" }}></i>
           </a>
-          &nbsp; &nbsp;
           <a
             className="gitHubIcon fa-2x"
             href="https://github.com/ssh1sharma"
