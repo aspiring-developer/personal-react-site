@@ -38,7 +38,7 @@ const OilPaintingRow = (props) => {
         <PaintingProps
           image="../images/painting-fishtail-view-300x224.jpg"
           title='Oil Painting: Title "A Beauty"'
-          description="This is 12in x 18in oil painting, made with oil over acrylic technique."
+          description="This is 12in x 18in oil painting, made with oil over acrylic technique. This is one of series that customers like a lot. Several pieces have been sold from this series. "
         />
         <PaintingProps
           image="../images/painting-stony-lake-300x224.jpg"
