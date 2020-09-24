@@ -33,7 +33,7 @@ const OilPaintingRow = (props) => {
         <PaintingProps
           image="../images/painting-crabtree-park1-300x224.jpg"
           title='Oil Painting: Title "Crabtree Trail "'
-          description="This is 14in x 18in oil painting, made with oil over acrylic technique. This painting was sold from Cary Gallery of Artists along with another Crabtree Park Trail version #2."
+          description="This is 14in x 18in oil painting, made with oil over acrylic technique. This painting was sold from Cary Gallery of Artists along with another Crabtree Park Trail version #2. There is another version of this series in display."
         />
         <PaintingProps
           image="../images/painting-fishtail-view-300x224.jpg"
