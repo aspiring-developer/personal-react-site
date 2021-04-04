@@ -7,7 +7,7 @@
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/c4f566aa-825b-46cd-9afb-a4fb8a9ae391/deploy-status)](https://app.netlify.com/sites/personal-react-site/deploys)
 
-#### Some screenshots of the web pages
+#### Screenshots of some of the web pages
 
 **The landing page**
 
