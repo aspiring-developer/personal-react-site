@@ -28,8 +28,9 @@ const GraphicDesignRow = (props) => {
           title="Health Magazine Cover"
           description="This Health Magazine Cover design was created as a project while I was studying Advertising and Graphic Design."
         />
-<h4 className="magazineInfo px-4 text-center"> <a href="../images/SANGALO-2020-for-site-WEB-VERSION.pdf"> Click here to view one of my client's latest Magazine/Book Design project in PDF version. </a> <br/> <p>Note: It is optimized for web, so quality may have been reduced.</p></h4>
-<br />
+        <div className="magazineInfo py-3 px-2 bg-light">
+          <h4 className="px-4 text-center"> <a href="../images/SANGALO-2020-for-site-WEB-VERSION.pdf" target="_blank"> Click here to view one of my client's latest Magazine/Book Design project in PDF version. </a> <br /> <p>Note: It is optimized for web, so quality may have been reduced.</p></h4>
+        </div>
       </div>
     </>
   )
