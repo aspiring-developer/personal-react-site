@@ -5,9 +5,9 @@ const AboutMainLeft = () => {
     <>
       <div class="col-sm-12 col-md-6 aboutTechnologyCol">
         <h6 class="text-left text-info">Web-Dev Tools: </h6>
-        <p class="text-left"> HTML5, CSS3, Bootstrap-4, Media Query, JavaScript, JQuery, NodeJS, Express, MySQL, Sequelize, MongoDB, Mongoose, React.js, Git, GitHub, GitHub Pages, Heroku, Netlify</p>
+        <p class="text-left"> HTML5, CSS3, Bootstrap-4, Media Query, JavaScript, JQuery, NodeJS, Express, MySQL, MongoDB, Mongoose, React.js, Git, GitHub, Heroku, Netlify</p>
         <h6 class="text-left text-info mt-3">Graphic Design Tools: </h6>
-        <p class="text-left"> Adobe CS5 Design Premium (Photoshop, Illustrator, InDesign)</p>
+        <p class="text-left"> Adobe Design Premium (Photoshop, Illustrator, InDesign), Adobe XD</p>
         <div class="aboutPageIcons py-4">
           <i class="fab fa-html5 fa-3x p-4"></i>
           <i class="fab fa-css3-alt fa-3x p-4"></i>
