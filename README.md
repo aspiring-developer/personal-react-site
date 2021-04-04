@@ -1,7 +1,7 @@
 ## personal-react-site
 
-- A personal website which contains Web-Development, Graphic Design, Oil Painting, Digital Art and Chalkboard Art portfolio.
-- It has been deployed to Netlify. The links is below.
+- A personal website that contains Web-Development, Graphic Design, Oil Painting, Digital Art and Chalkboard Art portfolio.
+- It has been deployed to Netlify. The link is below.
 - It is a React-based website.
 - This is a periodically updating website, so the more technologies involved, the frequent update occurs.
 
