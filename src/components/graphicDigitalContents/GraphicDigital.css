@@ -7,14 +7,19 @@
 .descriptionTitle {
   color: #17a2b8;
 }
+
 .magazineInfo {
   border: 1px solid #dedede;
   border-radius: 10px;
 }
-.magazineInfo a{
-  color:blueviolet;
+
+.magazineInfo a {
+  color: blueviolet;
 }
 
+.magazineInfo a:hover {
+  color: red;
+}
 /* #graphicPagesDisplayBox img {
   border: 1px solid #999;
   padding: .4rem;
@@ -75,4 +80,3 @@
 /* #randomDescriptionDisplay {
   display: none;
 } */
-

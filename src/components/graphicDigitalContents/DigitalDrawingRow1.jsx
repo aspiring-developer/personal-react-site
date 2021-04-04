@@ -7,7 +7,7 @@ const DigitalDrawingRow1 = (props) => {
     <>
       <hr />
       <h3 className="text-info text-center mb-4">Digital Drawing </h3>
-      <p className="text-info text-center mb-4 px-4">All digital drawings were created from scratch using Adobe Design Premium tools. Each drawing was started from a single blank layer at the beginning and ended with hundreds of layers stacking. One of the largest digital drawing project, The House and Car, contains about 1,000 layers. </p>
+      <h6 className="text-dark text-center mb-4 px-4">All digital drawings were created from scratch using Adobe Design Premium tools. Each drawing was started from a single blank layer and ended with hundreds of layers stacking over. One of the largest digital drawing project, The House and Car, contains about 1,000 layers. </h6>
 
       <div class="row portfolioDisplayTopRow mx-auto d-flex justify-content-center align-items-center">
 
